@@ -6,11 +6,11 @@
  Published to GitHub by Joel Miller on 12/8/17
 
 
- Through the use of an Arduino, a clock shield, a MOSFET, and a bit of code, we have basically replaced the need for sun!
+ Through the use of an Arduino, a clock shield(for info, see https://github.com/Seeed-Studio/Starter_Shield), a MOSFET, and a bit of code, we have basically replaced the need for sun!
  If you live in a place where the sun likes to slack seasonally or you just like to build things that light up at a certain time, then this little trinket is the thing for you.
 
 
-#How to get it to work#
+                #HOW TO GET THIS LITTLE GUY GOING#
     This isn't going to be a full tutorial(yet). I shall only cover the software aspect of the Dawn-Simulator and that will be brief. (It is recommended that you have some knowledge of arduinos and their activities.)
 
 1. You shall download the needed libraries from https://github.com/Seeed-Studio/Starter_Shield and include them in the Arduino IDE.
